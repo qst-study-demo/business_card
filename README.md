@@ -46,8 +46,8 @@ UPLOAD -> DOWNLOAD MARKER
 
 ## 動作確認
 
-修正をコミットし、リポジトリに反映。数分待つとPagesにも反映されるので、確認して下さい。
-
-## おまけ
+修正をコミットし、リポジトリに反映。数分待つとPagesにも反映されるので、確認して下さい。  
+https://qst-study-demo.github.io/business_card/  
+スマートフォンで上記を開くとカメラが起動します。QR.pngを読み込んで下さい。  
 
 動作確認はChromeで行って下さい。Edgeでは表示できませんでした。
